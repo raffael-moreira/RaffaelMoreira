@@ -6,7 +6,7 @@
 
 ### 📖 **Experiência Acadêmica**  
 - 📖 **TCC:** *"Análise de distribuição de dose em microplacas de titulação para culturas de carcinoma escamoso bucal: uma simulação Monte Carlo utilizando TOPAS"*  
-- 🔬 **Pesquisa Atual:** *"Hipóxia induzida por cobalto como estratégia biomimética para o desenvolvimento de biomateriais avançados."*  
+- 🔬 **Pesquisa Atual:** *"Desenvolvimento de um modelo in vitro para avaliação de compostos terapêuticos aplicados à radioterapia e saúde bucal."*  
 
 ### 📌 **Linguagens de programação**  
 <div>  
